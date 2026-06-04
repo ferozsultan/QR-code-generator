@@ -112,5 +112,10 @@ body {
         align-items: center;
 
     }
+    .container{
+        position: absolute;
+        top: 38%;
+        left: 20%;
+    }
 
 }
